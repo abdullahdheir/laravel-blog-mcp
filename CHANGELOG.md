@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 - 2026-10-08
 
 - Stateless MCP server over Streamable HTTP (JSON responses): `initialize`, `ping`, `tools/list`, `tools/call`, batches and notifications.
 - Static bearer-token protection; the endpoint answers 404 when no token is configured.
